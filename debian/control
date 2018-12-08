@@ -1,12 +1,11 @@
-Source: mx17-artwork
+Source: mx18-artwork
 Section: xfce
 Priority: extra
-Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
-XSBC-Original-Maintainer: Kent Mathern <maintainer@mepiscommunity.org>
+Maintainer: dolphin oracle <dolphinoracle@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 
-Package: mx17-artwork
+Package: mx18-artwork
 Architecture: all
 Depends: ${misc:Depends}
-Description: Default wallpaper, grub and lightdm backgrounds for MX17
+Description: Default wallpaper, grub and lightdm backgrounds for MX18
