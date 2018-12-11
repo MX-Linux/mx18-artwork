@@ -1,3 +1,9 @@
+mx18-artwork (18.12.4) mx; urgency=medium
+
+  * updated artwork pack
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 11 Dec 2018 18:00:12 -0500
+
 mx18-artwork (18.12.3) mx; urgency=medium
 
   * removed embedded thumbnails 
