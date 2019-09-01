@@ -6,6 +6,7 @@ Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 
 Package: mx18-artwork
+Replaces:  desktop-defaults-xfce-mx17
 Architecture: all
 Depends: ${misc:Depends}
 Description: Default wallpaper, grub and lightdm backgrounds for MX18
